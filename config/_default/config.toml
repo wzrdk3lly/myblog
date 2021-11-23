@@ -44,6 +44,6 @@ summaryLength = 0
   #   { steam = "https://steamcommunity.com/profiles/userid" },
   #   { tiktok = "https://tiktok.com/@username" },
   #   { twitch = "https://twitch.tv/username" },
-  { twitter = "https://twitter.com/wzrdk3lly" },
+      { twitter = "https://twitter.com/wzrdk3lly" },
   #   { youtube = "https://youtube.com/username" },
   # ]
