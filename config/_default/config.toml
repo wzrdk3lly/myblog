@@ -16,9 +16,9 @@ enableRobotsTXT = true
 summaryLength = 0
 
 [author]
-  name = "Miles"
+  name = "Wzrdk3lly"
   image = "img/unicorn.png"
-  # bio = "A little bit about you"
+  bio = "I'm just a techie that likes to hack, crypto, skateboarding, and spread positive energy. Join me on this journey as I explore new topics and challenge myself to break into the web3 space. While my main focus will be security/web3, I plan to post general life alpha. Enjoy ;)"
   # links = [
   #   { email = "mailto:hello@your_domain.com" },
   #   { link = "https://link-to-some-website.com/" },
@@ -28,7 +28,7 @@ summaryLength = 0
   #   { dribbble = "https://dribbble.com/username" },
   #   { facebook = "https://facebook.com/username" },
   #   { foursquare = "https://foursquare.com/username" },
-  #   { github = "https://github.com/username" },
+  { github = "https://github.com/mkduke424" },
   #   { gitlab = "https://gitlab.com/username" },
   #   { instagram = "https://instagram.com/username" },
   #   { keybase = "https://keybase.io/username" },
@@ -44,6 +44,6 @@ summaryLength = 0
   #   { steam = "https://steamcommunity.com/profiles/userid" },
   #   { tiktok = "https://tiktok.com/@username" },
   #   { twitch = "https://twitch.tv/username" },
-  #   { twitter = "https://twitter.com/username" },
+  { twitter = "https://twitter.com/wzrdk3lly" },
   #   { youtube = "https://youtube.com/username" },
   # ]
