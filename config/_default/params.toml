@@ -5,16 +5,18 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://jpanther.github.io/congo/docs/configuration/#theme-parameters
 
-colorScheme = "congo"
-# darkMode = "auto"
+colorScheme = "fire"
+darkMode = "auto"
+darkToggle = "true"
 # darkToggle = false
-# logo = "img/logo.jpg"
+# logo = "assets/unicorn.png"
+
 # description = "My awesome website"
 # mainSections = ["section1", "section2"]
 # robots = ""
 
 [homepage]
-  layout = "page" # valid options: page, profile, custom
+  layout = "profile" # valid options: page, profile, custom
   showRecent = false
 
 [article]
