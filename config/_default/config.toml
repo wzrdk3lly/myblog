@@ -46,4 +46,4 @@ summaryLength = 0
   #   { twitch = "https://twitch.tv/username" },
       { twitter = "https://twitter.com/wzrdk3lly" },
   #   { youtube = "https://youtube.com/username" },
-  # ]
+  ]
