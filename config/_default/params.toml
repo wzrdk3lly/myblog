@@ -12,12 +12,12 @@ darkToggle = "true"
 # logo = "assets/unicorn.png"
 
 description = "Just a techie that likes to hack, collect NFT's, and skate."
-# mainSections = ["section1", "section2"]
+# mainSections = ["Alpha"]
 # robots = ""
 
 [homepage]
   layout = "profile" # valid options: page, profile, custom
-  showRecent = false
+  showRecent = true
 
 [article]
   showDate = true

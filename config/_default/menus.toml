@@ -11,13 +11,14 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Blog"
-  pageRef = "posts"
+  name = "Alpha"
+  pageRef = "alpha"
   weight = 10
 
+
 [[main]]
-  name = "Categories"
-  pageRef = "categories"
+  name = "CTFs"
+  pageRef = "ctfs"
   weight = 20
 
 [[main]]
