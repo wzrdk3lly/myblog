@@ -16,10 +16,10 @@
   weight = 10
 
 
-[[main]]
-  name = "CTFs"
-  pageRef = "ctfs"
-  weight = 20
+#[[main]]
+#  name = "CTFs"
+#  pageRef = "ctfs"
+#  weight = 20
 
 [[main]]
   name = "Tags"

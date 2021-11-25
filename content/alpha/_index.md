@@ -8,5 +8,5 @@ cascade:
 ---
 
 {{< lead >}}
-Sharing all the free Alpha here. 
+All of my post related to cybersecurity + web3 + learnings are located here. 
 {{< /lead >}}

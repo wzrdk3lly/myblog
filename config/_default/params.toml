@@ -12,7 +12,7 @@ darkToggle = "true"
 # logo = "assets/unicorn.png"
 
 description = "Just a techie that likes to hack, collect NFT's, and skate."
-# mainSections = ["Alpha"]
+# mainSections = ["Alpha","CTFs"]
 # robots = ""
 
 [homepage]
