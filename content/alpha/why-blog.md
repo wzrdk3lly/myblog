@@ -1,8 +1,9 @@
 ---
 title: "Starting a Blog with Hugo and Github for Free"
-date: 2021-11-23
+date: 2021-11-24
 tags: ["#alpha", "#git", "#Jobs"]
 showAuthor: true
+showDate: true
 ---
 
 This article explains why I started a blog and how you can too. I'm going to show you step by step how to create a simple blog with Hugo and Github for FREE. 
