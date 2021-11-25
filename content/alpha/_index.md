@@ -1,6 +1,6 @@
 ---
 title: "Alpha"
-description: "Learn all the Alpha"
+description: "Dropping Alpha"
 
 cascade:
   showDate: false
@@ -8,5 +8,5 @@ cascade:
 ---
 
 {{< lead >}}
-You will find all kind of free alpha below.
+Sharing all the free Alpha here. 
 {{< /lead >}}
